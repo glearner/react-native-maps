@@ -10,7 +10,7 @@ app/*.mobileprovision
 app/*.orig.*
 app/web-build/
 app/web-report/
-app/config/
+
 
 
 # macOS
