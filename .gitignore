@@ -1,4 +1,5 @@
-backend/
+backend/node_modules/
+backend/index.js
 app/node_modules/
 app/.expo/*
 app/npm-debug.*
